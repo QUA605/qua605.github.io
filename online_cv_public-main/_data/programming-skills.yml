@@ -1,0 +1,15 @@
+- name: C++
+  percentage: 90
+  level: Expert
+  color: danger
+
+- name: Python
+  percentage: 90
+  level: Expert
+  color: secondary
+  
+- name: JavaScript
+  percentage: 5
+  level: Beginner
+  color:
+

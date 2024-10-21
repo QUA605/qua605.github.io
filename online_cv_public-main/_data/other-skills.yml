@@ -1,0 +1,4 @@
+- name: Database Administration
+  percentage: 50
+  level: Medium
+  color: info
