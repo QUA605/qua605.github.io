@@ -1,7 +1,7 @@
 ---
 name: HW6
 tools: [Python, Altair, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/viz1.png
 description: HW6 Submission
 custom_js:
   - vega.min
@@ -18,7 +18,7 @@ Example comes from this [great blog post right here](https://blog.4dcu.be/progra
 We can use a vegachart HTML tag like so:
 
 ```
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/viz1.json" style="width: 100%"></vegachart>
 ```
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
