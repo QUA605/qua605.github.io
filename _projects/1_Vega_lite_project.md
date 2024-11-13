@@ -1,4 +1,4 @@
----
+  ---
 name: Vega Lite Example Project
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
