@@ -1,8 +1,8 @@
 ---
-name: Vega Lite Example Project
-tools: [Python, HTML, vega-lite]
+name: HW6
+tools: [Python, Altair, vega-lite]
 image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: HW6 Submission
 custom_js:
   - vega.min
   - vega-lite.min
