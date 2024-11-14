@@ -17,11 +17,19 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/viz1.json" style="width: 100%"></vegachart>
 
+#### Visualization 1 Write Up
+
+The bar chart shows the distribution between buildings and agencies. It shows that which 
+agencies have the most properties. I sorted the data so that it is more clear to see the 
+distribution in counts. Moreover, I did not choose a color to seperate different agency but I used an interactive way for the audience to choose which bar they would like to take a look at, the graph will make the other bar grey so it is easier for the audience to look at a specific bar.
 
 ### Visualization 2:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/viz2.json" style="width: 100%"></vegachart>
 
+#### Visualization 2 Write Up
+
+The scatter plot shows the distribution of square footage of buildings by year constructed. The plot uses different colors to seperate out counties which makes it looks a little bit messy but I want to use color to see the distribution of county. The more color dot there is on the plot means that the more building the county has. There is just simple zoom in and out feature with tooltip that could be used to see a specific data point.
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
