@@ -13,13 +13,14 @@ custom_js:
 
 # HW6
 
-## Visualization 1: Building and Agency Bar Graph
+### Visualization 1: Building and Agency Bar Graph
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/viz1.json" style="width: 100%"></vegachart>
 
 
-## Visualization 2:
+### Visualization 2:
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/viz2.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid --> 
 
